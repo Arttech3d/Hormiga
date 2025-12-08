@@ -1,0 +1,167 @@
+(footprint "SML0805_259"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SML0805-2CW-TR (0805 PROFILE) COOL WHITE\n\nSource: http://www.ledtronics.com/ds/smd-0603/Dstr0093.pdf")
+	(property "Reference" "REF**"
+		(at -1.5 -1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "30c5c40d-0213-4793-82af-f6cd0f841042")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "SML0805_259"
+		(at -1.5 2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ac92ef16-80be-4878-a722-3c564a8b2387")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b163e972-d130-4b88-92a2-38de09545b3c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a73ed44-a7b5-4a55-b350-d24d32c91373")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -0.175 0.025)
+		(end 0 -0.15)
+		(stroke
+			(width 0.0634)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "266d0b86-2a1f-461d-b758-d7266a9e0b0c")
+	)
+	(fp_line
+		(start -0.025 0.175)
+		(end -0.175 0.025)
+		(stroke
+			(width 0.0634)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "13c9aad3-ad73-408a-a549-e11d58f0c0fb")
+	)
+	(fp_line
+		(start 0 -0.15)
+		(end 0.15 0)
+		(stroke
+			(width 0.0634)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "50f65c6c-2248-418e-ae6f-8671c18440c0")
+	)
+	(fp_line
+		(start 0.15 0)
+		(end -0.025 0.175)
+		(stroke
+			(width 0.0634)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6df04a9c-5bfe-4021-9230-0d80ba018b19")
+	)
+	(fp_circle
+		(center -0.275 -0.4)
+		(end -0.2125 -0.4)
+		(stroke
+			(width 0.125)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "921310e1-9abe-4fe2-b918-a22ad5d1002d")
+	)
+	(fp_line
+		(start -0.95 -0.55)
+		(end -0.95 0.55)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "42ba7968-9776-48d6-a3c3-5ca98a1fed80")
+	)
+	(fp_line
+		(start -0.95 0.55)
+		(end 0.95 0.55)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ad8148aa-27e1-43a0-a46b-6a1490fe7570")
+	)
+	(fp_line
+		(start 0.95 -0.55)
+		(end -0.95 -0.55)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d6fc060d-8f54-4289-a783-e80002201000")
+	)
+	(fp_line
+		(start 0.95 0.55)
+		(end 0.95 -0.55)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7d2a50d5-2981-4d2a-b578-7bb2fb0e7c7c")
+	)
+	(pad "A" smd rect
+		(at 1.05 0)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "f4e0e709-3a56-42c6-a238-7b72ec4b41e9")
+	)
+	(pad "C" smd rect
+		(at -1.05 0)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "439ac972-fbaf-41aa-a4f6-08415c3f0941")
+	)
+	(embedded_fonts no)
+)
