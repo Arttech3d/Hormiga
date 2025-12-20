@@ -524,7 +524,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../Ant ESP8266/Gerber/",
+      "plot": "Gcode/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../../../board.step",
