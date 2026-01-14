@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MicroMod-Datalogging-CarrierBoard")(type "KiCad")(uri "$(KIPRJMOD)/MicroMod-Datalogging-CarrierBoard.pretty")(options "")(descr ""))
+)
