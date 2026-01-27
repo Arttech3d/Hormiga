@@ -6393,7 +6393,7 @@
 			)
 		)
 		(property "Value" "MOSFET-NREFLOW"
-			(at 155.41 144.97 0)
+			(at 155.194 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.0795)

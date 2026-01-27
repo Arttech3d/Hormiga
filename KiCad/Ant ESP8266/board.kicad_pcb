@@ -1126,7 +1126,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "ESP12E_DEVKIT"
+		(property "Value" "ESP8266  ESP12E_DEVKIT"
 			(at 3.81 19.05 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11727,17 +11727,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "HeRo"
-		(at 123.887005 92.549067 0)
-		(layer "F.SilkS")
-		(uuid "2999d7e1-e564-4ac2-91f9-e128614e8b1b")
-		(effects
-			(font
-				(size 0.93472 0.93472)
-				(thickness 0.08128)
-			)
-		)
-	)
 	(gr_text "A"
 		(at 168.974492 102.781995 90)
 		(layer "F.SilkS")
@@ -11748,17 +11737,6 @@
 				(thickness 0.048768)
 			)
 			(justify left bottom)
-		)
-	)
-	(gr_text "verlab.dcc.ufmg.br"
-		(at 125.894496 93.722708 0)
-		(layer "F.SilkS")
-		(uuid "5236236c-bc5e-4e2a-9dd2-abb97bdfc604")
-		(effects
-			(font
-				(size 0.560832 0.560832)
-				(thickness 0.048768)
-			)
 		)
 	)
 	(gr_text "A"
@@ -11809,17 +11787,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "2023.10"
-		(at 128.117214 92.703002 0)
-		(layer "F.SilkS")
-		(uuid "86f54fbd-0161-41e9-9287-a63e30db00ec")
-		(effects
-			(font
-				(size 0.70104 0.70104)
-				(thickness 0.06096)
-			)
-		)
-	)
 	(gr_text "+"
 		(at 169.254492 100.421995 0)
 		(layer "F.SilkS")
@@ -11866,17 +11833,6 @@
 				(thickness 0.14224)
 			)
 			(justify left bottom)
-		)
-	)
-	(gr_text "HeRo\nv2.7"
-		(at 140.764492 131.231995 0)
-		(layer "F.SilkS")
-		(uuid "c87debd0-193d-4b77-8aaa-bbdec169448b")
-		(effects
-			(font
-				(size 1.40208 1.40208)
-				(thickness 0.12192)
-			)
 		)
 	)
 	(gr_text "GND"
@@ -11975,29 +11931,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "ROS\nCompatible"
-		(at 139.274492 78.731995 0)
-		(layer "F.SilkS")
-		(uuid "fc05e414-409c-4929-ad47-d1adec833ed4")
-		(effects
-			(font
-				(size 1.1684 1.1684)
-				(thickness 0.1016)
-			)
-		)
-	)
-	(gr_text "verlab.dcc.ufmg.br"
-		(at 125.874496 93.702708 -0)
-		(layer "B.SilkS")
-		(uuid "1e1bced2-8471-457a-ac74-ed310600d615")
-		(effects
-			(font
-				(size 0.560832 0.560832)
-				(thickness 0.048768)
-			)
-			(justify mirror)
-		)
-	)
 	(gr_text "TCRT5000"
 		(at 151.517923 76.16543 -0)
 		(layer "B.SilkS")
@@ -12070,8 +12003,8 @@
 			(justify right top mirror)
 		)
 	)
-	(gr_text "HeRo"
-		(at 148.124492 95.331995 -0)
+	(gr_text "ANT"
+		(at 148.124492 95.331995 0)
 		(layer "B.SilkS")
 		(uuid "5ce0d67e-2dbc-44e1-a48f-0cc10b879bb7")
 		(effects
@@ -12116,18 +12049,6 @@
 				(thickness 0.1016)
 			)
 			(justify right top mirror)
-		)
-	)
-	(gr_text "2023.10"
-		(at 123.887214 92.683002 -0)
-		(layer "B.SilkS")
-		(uuid "8968bf2c-41d6-4a89-995d-df215687f225")
-		(effects
-			(font
-				(size 0.70104 0.70104)
-				(thickness 0.06096)
-			)
-			(justify mirror)
 		)
 	)
 	(gr_text "MUX             VCC"
@@ -12178,18 +12099,6 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "HeRo"
-		(at 128.160142 92.574633 -0)
-		(layer "B.SilkS")
-		(uuid "c8452761-e7fb-44d1-a007-f7689c03f745")
-		(effects
-			(font
-				(size 0.93472 0.93472)
-				(thickness 0.08128)
-			)
-			(justify mirror)
-		)
-	)
 	(gr_text "SCL     SDA   \nTX       RX     "
 		(at 142.914492 114.871995 0)
 		(layer "B.SilkS")
@@ -12212,30 +12121,6 @@
 				(thickness 0.06096)
 			)
 			(justify left bottom mirror)
-		)
-	)
-	(gr_text "ROS\nCompatible"
-		(at 139.324492 78.781995 -0)
-		(layer "B.SilkS")
-		(uuid "ed157937-d5ea-49df-b596-b8e73a7b29d7")
-		(effects
-			(font
-				(size 1.1684 1.1684)
-				(thickness 0.1016)
-			)
-			(justify mirror)
-		)
-	)
-	(gr_text "HeRo\nv2.7"
-		(at 140.774492 131.231995 0)
-		(layer "B.SilkS")
-		(uuid "ed5f8418-96bd-48b9-b128-47c9dc3f7663")
-		(effects
-			(font
-				(size 1.40208 1.40208)
-				(thickness 0.12192)
-			)
-			(justify mirror)
 		)
 	)
 	(gr_text "-"

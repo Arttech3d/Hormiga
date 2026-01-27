@@ -2524,7 +2524,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 116.84) (xy 90.17 116.84)
+			(xy 85.09 113.03) (xy 90.17 113.03)
 		)
 		(stroke
 			(width 0.1524)
@@ -2684,7 +2684,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 119.38) (xy 62.23 121.92)
+			(xy 62.23 115.57) (xy 62.23 118.11)
 		)
 		(stroke
 			(width 0.1524)
@@ -2744,7 +2744,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 111.76) (xy 62.23 111.76)
+			(xy 54.61 107.95) (xy 62.23 107.95)
 		)
 		(stroke
 			(width 0.1524)
@@ -2764,7 +2764,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 114.3) (xy 62.23 114.3)
+			(xy 54.61 110.49) (xy 62.23 110.49)
 		)
 		(stroke
 			(width 0.1524)
@@ -2814,7 +2814,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 116.84) (xy 59.69 116.84)
+			(xy 54.61 113.03) (xy 59.69 113.03)
 		)
 		(stroke
 			(width 0.1524)
@@ -2834,7 +2834,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 119.38) (xy 92.71 121.92)
+			(xy 92.71 115.57) (xy 92.71 118.11)
 		)
 		(stroke
 			(width 0.1524)
@@ -2894,7 +2894,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 116.84) (xy 62.23 119.38)
+			(xy 59.69 113.03) (xy 62.23 115.57)
 		)
 		(stroke
 			(width 0.1524)
@@ -3184,7 +3184,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 114.3) (xy 92.71 114.3)
+			(xy 85.09 110.49) (xy 92.71 110.49)
 		)
 		(stroke
 			(width 0.1524)
@@ -3324,7 +3324,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 111.76) (xy 92.71 111.76)
+			(xy 85.09 107.95) (xy 92.71 107.95)
 		)
 		(stroke
 			(width 0.1524)
@@ -3364,7 +3364,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 116.84) (xy 92.71 119.38)
+			(xy 90.17 113.03) (xy 92.71 115.57)
 		)
 		(stroke
 			(width 0.1524)
@@ -3423,7 +3423,7 @@
 		(uuid "fd88b863-4801-4ecb-be31-f69bf82d4e7a")
 	)
 	(label "E_RIGHT_A"
-		(at 62.23 111.76 0)
+		(at 62.23 107.95 0)
 		(effects
 			(font
 				(size 0.569 0.569)
@@ -3453,7 +3453,7 @@
 		(uuid "3b0f1b55-2e27-4143-a2d1-0872ce9713e1")
 	)
 	(label "E_LEFT_B"
-		(at 92.71 114.3 0)
+		(at 92.71 110.49 0)
 		(effects
 			(font
 				(size 0.569 0.569)
@@ -3463,7 +3463,7 @@
 		(uuid "3f8bbc01-0e03-4b9e-a3b3-4fdea287c105")
 	)
 	(label "E_LEFT_A"
-		(at 92.71 111.76 0)
+		(at 92.71 107.95 0)
 		(effects
 			(font
 				(size 0.569 0.569)
@@ -3523,7 +3523,7 @@
 		(uuid "bd609779-b763-4cd5-a811-0fe634792f8c")
 	)
 	(label "E_RIGHT_B"
-		(at 62.23 114.3 0)
+		(at 62.23 110.49 0)
 		(effects
 			(font
 				(size 0.569 0.569)
@@ -3826,7 +3826,7 @@
 	)
 	(symbol
 		(lib_id "board-eagle-import:pinhead_PINHD-1X3")
-		(at 52.07 114.3 180)
+		(at 52.07 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3834,7 +3834,7 @@
 		(dnp no)
 		(uuid "18d686e9-d18e-462d-8780-16b248d0e067")
 		(property "Reference" "E_RIGHT0"
-			(at 58.42 120.015 0)
+			(at 58.42 116.205 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -3843,7 +3843,7 @@
 			)
 		)
 		(property "Value" "PINHD-1X3"
-			(at 58.42 106.68 0)
+			(at 58.42 102.87 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -3852,7 +3852,7 @@
 			)
 		)
 		(property "Footprint" "board:1X03"
-			(at 52.07 114.3 0)
+			(at 52.07 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3861,7 +3861,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 114.3 0)
+			(at 52.07 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3870,7 +3870,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 52.07 114.3 0)
+			(at 52.07 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4287,7 +4287,7 @@
 	)
 	(symbol
 		(lib_id "board-eagle-import:supply1_371_GND")
-		(at 92.71 124.46 0)
+		(at 92.71 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4295,7 +4295,7 @@
 		(dnp no)
 		(uuid "3827164e-fd40-41e2-aa7d-f7e904ccdf1c")
 		(property "Reference" "#GND9"
-			(at 92.71 124.46 0)
+			(at 92.71 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4304,7 +4304,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 95.25 127 0)
+			(at 95.25 123.19 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4313,7 +4313,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 92.71 124.46 0)
+			(at 92.71 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4322,7 +4322,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 124.46 0)
+			(at 92.71 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4331,7 +4331,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 92.71 124.46 0)
+			(at 92.71 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4900,7 +4900,7 @@
 	)
 	(symbol
 		(lib_id "board-eagle-import:pinhead_PINHD-1X3")
-		(at 82.55 114.3 180)
+		(at 82.55 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4908,7 +4908,7 @@
 		(dnp no)
 		(uuid "7ee4951f-844e-44df-a95b-5a49d5894f7a")
 		(property "Reference" "E_LEFT0"
-			(at 88.9 120.015 0)
+			(at 88.9 116.205 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4917,7 +4917,7 @@
 			)
 		)
 		(property "Value" "PINHD-1X3"
-			(at 88.9 106.68 0)
+			(at 88.9 102.87 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4926,7 +4926,7 @@
 			)
 		)
 		(property "Footprint" "board:1X03"
-			(at 82.55 114.3 0)
+			(at 82.55 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4935,7 +4935,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 114.3 0)
+			(at 82.55 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4944,7 +4944,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 82.55 114.3 0)
+			(at 82.55 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5444,7 +5444,7 @@
 	)
 	(symbol
 		(lib_id "board-eagle-import:supply1_371_GND")
-		(at 62.23 124.46 0)
+		(at 62.23 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5452,7 +5452,7 @@
 		(dnp no)
 		(uuid "e3ff561e-c0ad-4569-b1d8-e5c810890d6c")
 		(property "Reference" "#GND8"
-			(at 62.23 124.46 0)
+			(at 62.23 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5461,7 +5461,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 127 0)
+			(at 64.77 123.19 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -5470,7 +5470,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 124.46 0)
+			(at 62.23 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5479,7 +5479,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 124.46 0)
+			(at 62.23 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5488,7 +5488,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 62.23 124.46 0)
+			(at 62.23 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)

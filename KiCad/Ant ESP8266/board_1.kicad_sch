@@ -2010,7 +2010,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 105.41) (xy 255.27 105.41)
+			(xy 107.95 138.43) (xy 128.27 138.43)
 		)
 		(stroke
 			(width 0.1524)
@@ -2020,7 +2020,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 102.87) (xy 247.65 102.87)
+			(xy 107.95 135.89) (xy 120.65 135.89)
 		)
 		(stroke
 			(width 0.1524)
@@ -2090,7 +2090,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 110.49) (xy 242.57 110.49)
+			(xy 107.95 143.51) (xy 115.57 143.51)
 		)
 		(stroke
 			(width 0.1524)
@@ -2130,7 +2130,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 102.87) (xy 247.65 100.33)
+			(xy 120.65 135.89) (xy 120.65 133.35)
 		)
 		(stroke
 			(width 0.1524)
@@ -2140,7 +2140,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 101.6) (xy 200.66 101.6)
+			(xy 180.34 101.6) (xy 195.58 101.6)
 		)
 		(stroke
 			(width 0.1524)
@@ -2270,7 +2270,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 107.95) (xy 242.57 107.95)
+			(xy 107.95 140.97) (xy 115.57 140.97)
 		)
 		(stroke
 			(width 0.1524)
@@ -2419,7 +2419,7 @@
 		(uuid "9bf763a1-71c8-400b-bacd-a3480ce2bcf8")
 	)
 	(label "SCL_TX"
-		(at 242.57 107.95 0)
+		(at 115.57 140.97 0)
 		(effects
 			(font
 				(size 0.569 0.569)
@@ -2429,7 +2429,7 @@
 		(uuid "ae79a3fe-c411-4afe-ac3e-376ca93ca19c")
 	)
 	(label "SDA_RX"
-		(at 242.57 110.49 0)
+		(at 115.57 143.51 0)
 		(effects
 			(font
 				(size 0.569 0.569)
@@ -2768,7 +2768,7 @@
 	)
 	(symbol
 		(lib_id "board-eagle-import:supply1_371_GND")
-		(at 200.66 104.14 0)
+		(at 195.58 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2776,7 +2776,7 @@
 		(dnp no)
 		(uuid "1c290003-fc56-4dbf-a2f6-468bd4e1f380")
 		(property "Reference" "#GND5"
-			(at 200.66 104.14 0)
+			(at 195.58 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2785,7 +2785,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 200.66 106.68 0)
+			(at 195.58 106.68 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -2794,7 +2794,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.66 104.14 0)
+			(at 195.58 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2803,7 +2803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 104.14 0)
+			(at 195.58 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2812,7 +2812,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.66 104.14 0)
+			(at 195.58 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2972,7 +2972,7 @@
 	)
 	(symbol
 		(lib_id "board-eagle-import:frames_229_A4L-LOC")
-		(at 21.59 196.85 0)
+		(at 271.78 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2980,7 +2980,7 @@
 		(dnp no)
 		(uuid "4c0d162c-02ed-47b4-8336-858bdfb900dd")
 		(property "Reference" "#FRAME2"
-			(at 21.59 196.85 0)
+			(at 271.78 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2989,7 +2989,7 @@
 			)
 		)
 		(property "Value" "MCU and Motors Connectors"
-			(at 21.59 196.85 0)
+			(at 271.78 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2998,7 +2998,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 21.59 196.85 0)
+			(at 271.78 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3007,7 +3007,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 21.59 196.85 0)
+			(at 271.78 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3016,7 +3016,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 21.59 196.85 0)
+			(at 271.78 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3025,7 +3025,7 @@
 			)
 		)
 		(property "TITLE" "MCU and Motors"
-			(at 238.76 176.276 0)
+			(at 488.95 116.586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3128,8 +3128,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "ESP12E_DEVKIT"
-			(at 153.67 82.55 0)
+		(property "Value" "ESP8266  ESP12E_DEVKIT"
+			(at 147.828 82.042 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -3265,7 +3265,7 @@
 	)
 	(symbol
 		(lib_id "board-eagle-import:pinhead_PINHD-1X4")
-		(at 232.41 105.41 180)
+		(at 105.41 138.43 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3273,7 +3273,7 @@
 		(dnp no)
 		(uuid "5cb87a0d-28c5-40ca-aea6-770ca966593c")
 		(property "Reference" "E-HAT0"
-			(at 237.1598 113.8428 0)
+			(at 110.1598 146.8628 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -3282,7 +3282,7 @@
 			)
 		)
 		(property "Value" "PINHD-1X4"
-			(at 238.76 97.79 0)
+			(at 111.76 130.81 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -3291,7 +3291,7 @@
 			)
 		)
 		(property "Footprint" "board:1X04"
-			(at 232.41 105.41 0)
+			(at 105.41 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3300,7 +3300,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 232.41 105.41 0)
+			(at 105.41 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3309,7 +3309,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 232.41 105.41 0)
+			(at 105.41 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3406,7 +3406,7 @@
 	)
 	(symbol
 		(lib_id "board-eagle-import:supply1_371_VCC")
-		(at 247.65 97.79 0)
+		(at 120.65 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3414,7 +3414,7 @@
 		(dnp no)
 		(uuid "6808e843-6cd9-4041-9f38-7a5630399c50")
 		(property "Reference" "#P+22"
-			(at 247.65 97.79 0)
+			(at 120.65 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3423,7 +3423,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 247.65 95.25 90)
+			(at 120.65 128.27 90)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -3432,7 +3432,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 247.65 97.79 0)
+			(at 120.65 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3441,7 +3441,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 97.79 0)
+			(at 120.65 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3450,7 +3450,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 97.79 0)
+			(at 120.65 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3472,7 +3472,7 @@
 	)
 	(symbol
 		(lib_id "board-eagle-import:supply1_371_GND")
-		(at 255.27 107.95 0)
+		(at 128.27 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3480,7 +3480,7 @@
 		(dnp no)
 		(uuid "76ad3de2-175c-4f39-858b-ecd8c8082056")
 		(property "Reference" "#GND18"
-			(at 255.27 107.95 0)
+			(at 128.27 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3489,7 +3489,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 257.81 110.49 0)
+			(at 130.81 143.51 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -3498,7 +3498,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 255.27 107.95 0)
+			(at 128.27 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3507,7 +3507,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 107.95 0)
+			(at 128.27 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3516,7 +3516,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 107.95 0)
+			(at 128.27 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)

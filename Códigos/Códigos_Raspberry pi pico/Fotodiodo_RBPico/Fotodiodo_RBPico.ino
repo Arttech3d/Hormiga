@@ -1,0 +1,23 @@
+// ===============================
+// LECTURA DE VOLTAJE - RASPBERRY PI PICO
+// ===============================
+#define PIN_ADC 26        // GPIO26 = ADC0
+#define VREF 3.3
+#define ADC_RES 4095.0
+
+void setup() {
+  Serial.begin(115200);
+}
+
+void loop() {
+  int adc_raw = analogRead(PIN_ADC);
+  float voltaje = (adc_raw * VREF) / ADC_RES;
+
+  Serial.print("ADC: ");
+  Serial.print(adc_raw);
+  Serial.print("  Voltaje: ");
+  Serial.print(voltaje, 3);
+  Serial.println(" V");
+
+  delay(200);
+}

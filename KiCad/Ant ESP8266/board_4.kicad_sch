@@ -3408,7 +3408,7 @@
 			)
 		)
 		(property "Value" "CONN_02JST-PTH-2"
-			(at 249.3146 101.7318 0)
+			(at 259.588 102.362 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -4118,7 +4118,7 @@
 			)
 		)
 		(property "Value" "CONN_02JST-PTH-2"
-			(at 259.7286 101.7318 0)
+			(at 259.842 98.806 0)
 			(effects
 				(font
 					(size 1.778 1.778)

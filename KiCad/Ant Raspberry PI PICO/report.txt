@@ -1,0 +1,1 @@
+Error: Failed to create file 'G:\TESIS 2.0\Hero 3.0\KiCad\Ant Raspberry PI PICO\board-<p>Proximity Sensors<_p>.pdf'.

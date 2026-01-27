@@ -2438,7 +2438,7 @@
 	)
 	(text "BATTERY: Li-Po 3v7 1000 mAh"
 		(exclude_from_sim no)
-		(at 231.826 97.894 0)
+		(at 230.886 93.472 0)
 		(effects
 			(font
 				(size 1.778 1.5113)
@@ -3408,7 +3408,7 @@
 			)
 		)
 		(property "Value" "CONN_02JST-PTH-2"
-			(at 249.3146 101.7318 0)
+			(at 258.064 96.266 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -4124,6 +4124,7 @@
 					(size 1.778 1.778)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "board:JST-2-PTH"
